@@ -6,8 +6,10 @@ function App() {
   return (
     <div className="container">
      <h1 className="title">Inmobiliaria GRUPO ZAFER <span aria-label="emoji" role="img"></span>
-     </h1>
+	 </h1>
      <input type="text" className="new-task"/>
+	 <h2 className="title">Bienvenidos, te ayudaremos a encontrar la propiedad de tus sueños<span aria-label="emoji" role="img"></span>
+	 </h2>
   </div>
   );
 }
